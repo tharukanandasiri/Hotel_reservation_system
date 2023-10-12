@@ -1,0 +1,66 @@
+#formborder{
+    border: 3px solid rgb(65, 65, 65);
+    width: 45%;
+    padding: 20px;
+    margin: auto;
+}
+*{
+    font-family: calibri;
+}
+#top{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(65, 65, 65);
+}
+hr{
+    border: 2px solid grey;
+}
+input,select{
+    width: 250px;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 5px;
+    height: 25px;
+}
+#dis_box{
+    width: 130px;
+    height: 150px;
+    border: 2px solid purple;
+    border-radius: 20px;
+    position: relative;
+    float: right;
+    bottom: 200px;
+    right: 20px;
+    padding: 15px;
+}
+#sub{
+    width: 85px;
+    height: 30px;
+    background-color: rgb(250, 75, 75);
+    color: white;
+    margin-left: 250px;
+    font-weight: bold;
+    font-size: 15px;
+    border: none;
+    border-radius: 0;
+}
+#sub:hover{
+    background-color: red;
+}
+label{
+    color: rgb(59, 59, 59);
+}
+span{
+    font-size: 11px;
+    font-family: courier;
+    color: red;
+}
+.r{
+    font-weight: bold;
+    font-size: 14px;
+}
+.p{
+    font-size: 13.5px;
+}
+#pr{
+    margin-bottom: 30px;
+}
